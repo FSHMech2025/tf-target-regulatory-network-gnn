@@ -138,7 +138,7 @@ Several limitations should be considered:
 
 The analysis is organized around reproducible stages:
 
-```text
+text
 Data preparation
       ↓
 Network construction
