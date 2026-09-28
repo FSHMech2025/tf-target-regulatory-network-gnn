@@ -1,0 +1,13 @@
+Ranking,K,Validated_count,Precision_at_K
+Degree baseline,100,0,0.0
+Degree baseline,500,0,0.0
+Degree baseline,1000,0,0.0
+Degree baseline,5000,47,0.0094
+Raw GNN,100,0,0.0
+Raw GNN,500,3,0.006
+Raw GNN,1000,4,0.004
+Raw GNN,5000,20,0.004
+Embedding-aware residual,100,0,0.0
+Embedding-aware residual,500,1,0.002
+Embedding-aware residual,1000,1,0.001
+Embedding-aware residual,5000,3,0.0006
